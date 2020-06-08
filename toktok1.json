@@ -1,13 +1,13 @@
 {
   "ads": {
-    "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-5315325291235997/8273792524",
-    "inter_setting": "ca-app-pub-5315325291235997/2925209024",
-    "banner_main": "ca-app-pub-5315325291235997/1708384178",
-    "inter_main": "ca-app-pub-5315325291235997/8082220836"
+    "id_app": "5eddf71f35810c06f487c05d",
+    "banner_setting": "ca-app-pub-5315325291235997/3460395649",
+    "inter_setting": "ca-app-pub-5315325291235997/2147313973",
+    "banner_main": "ca-app-pub-5315325291235997/8521150637",
+    "inter_main": "ca-app-pub-5315325291235997/3268823957"
   }, 
   "app_exists": {
-    "id": "com.videocall.scaryteacher.v2",
+    "id": "com.live.livevideocallguide",
     "is_exists": true,
     "is_show_more": false
   },
