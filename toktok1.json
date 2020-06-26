@@ -1,10 +1,10 @@
 {
   "ads": {
     "id_app": "5eddf71f35810c06f487c05d",
-    "banner_setting": "ca-app-pub-5315325291235997/3460395649",
-    "inter_setting": "ca-app-pub-5315325291235997/2147313973",
-    "banner_main": "ca-app-pub-5315325291235997/8521150637",
-    "inter_main": "ca-app-pub-5315325291235997/3268823957"
+    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
+    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
+    "banner_main": "ca-app-pub-3940256099942544/6300978111",
+    "inter_main": "ca-app-pub-3940256099942544/1033173712"
   }, 
   "app_exists": {
     "id": "com.live.livevideocallguide",
