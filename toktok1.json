@@ -1,13 +1,13 @@
 {
   "ads": {
-    "id_app": "5eddf71f35810c06f487c05d",
-    "banner_setting": "ca-app-pub-3940256099942544/6300978111",
-    "inter_setting": "ca-app-pub-3940256099942544/1033173712",
-    "banner_main": "ca-app-pub-3940256099942544/6300978111",
-    "inter_main": "ca-app-pub-3940256099942544/1033173712"
+    "id_app": "5eddf71f35810c06f487c05dg",
+    "banner_setting": "ca-app-pub-8541594829243773/3344994938",
+    "inter_setting": "ca-app-pub-8541594829243773/4187303311",
+    "banner_main": "ca-app-pub-8541594829243773/7284239943",
+    "inter_main": "ca-app-pub-8541594829243773/9595187447"
   }, 
   "app_exists": {
-    "id": "com.live.livevideocallguide",
+    "id": "com.livevideo.livevideocallandlivevideochat.random",
     "is_exists": true,
     "is_show_more": false
   },
